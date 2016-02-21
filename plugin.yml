@@ -1,0 +1,10 @@
+name: mchostuhc
+version: 1.0
+author: MCHost
+main: co.mchost.uhc.core.Main
+description: MCHost's UHC Game
+commands:
+   host:
+      description: Host a game
+   start:
+      description: Start a game
